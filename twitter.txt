@@ -1,3 +1,4 @@
+[Adblock Plus 3.6]
 ! Title: Focus for Twitter
 ! Description: This list removes almost all distractions on Twitter
 ! Homepage: https://github.com/mustafa-tariqk/focus/tree/main
