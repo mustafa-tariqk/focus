@@ -14,3 +14,4 @@ twitter.com##[href="/i/verified-choose"]
 twitter.com##[href="https://tweetdeck.twitter.com"]
 twitter.com##[data-testid="sidebarColumn"]
 twitter.com##[data-testid="DMDrawer"]
+twitter.com##[role="tablist"] > div:first-child
