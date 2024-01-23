@@ -4,7 +4,7 @@
 ! Expires: 14 days
 ! Description: This list removes almost all distractions on YouTube
 ! I did not make this initial list, credit goes to the original author
-! Homepage: https://github.com/hadig/Focus-for-Youtube
+! Homepage: https://github.com/mustafa-tariqk/focus
 
 ! Removes Home Page feed
 youtube.com##ytd-browse[page-subtype*='home']
