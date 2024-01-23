@@ -86,10 +86,10 @@ www.youtube.com###hover-overlays
 youtube.com###comments
 
 ! ———————————— Removes the comment section on phones
-! m.youtube.com##ytm-comment-section-renderer
+m.youtube.com##ytm-comment-section-renderer
 
 ! ———————————— Removes the comment section on livestreams
-! youtube.com##ytd-live-chat-frame
+youtube.com##ytd-live-chat-frame
 
 ! ———————————— Removes the comment section on livestream VoDs
-! youtube.com###watch-discussion
+youtube.com###watch-discussion
