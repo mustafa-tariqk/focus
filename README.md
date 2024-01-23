@@ -3,6 +3,7 @@
 How to use: 
 Put these links in as custom filters in your ad blocker:
 * [Twitter](https://raw.githubusercontent.com/mustafa-tariqk/focus/main/twitter.txt)
+* [YouTube](https://raw.githubusercontent.com/mustafa-tariqk/focus/main/youtube.txt)
 * [Instagram]() (not available yet)
 * [Reddit]() (not available yet)
 
