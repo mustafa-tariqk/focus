@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: Focus for YouTube
 ! Version: 2024v1.0
-! Expires: 14 days
+! Expires: 1 days
 ! Description: This list removes almost all distractions on YouTube
 ! I did not make this initial list, credit goes to the original author
 ! Homepage: https://github.com/mustafa-tariqk/focus

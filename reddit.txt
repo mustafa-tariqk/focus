@@ -1,0 +1,11 @@
+[Adblock Plus 3.6]
+! Title: Focus for Reddit
+! Version: 2024v1.0
+! Expires: 1 days
+! Description: This list removes almost all distractions on Reddit
+! Homepage: https://github.com/mustafa-tariqk/
+
+reddit.com##[id="left-sidebar-container"]
+reddit.com##[aria-label="Related content"]
+reddit.com##[id="right-sidebar-container"]
+reddit.com##[class="masthead"]

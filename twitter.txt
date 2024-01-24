@@ -1,7 +1,7 @@
 [Adblock Plus 3.6]
 ! Title: Focus for Twitter
 ! Version: 2024v1.0
-! Expires: 14 days
+! Expires: 1 days
 ! Description: This list removes almost all distractions on Twitter
 ! Homepage: https://github.com/mustafa-tariqk/
 
