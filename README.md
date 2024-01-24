@@ -13,8 +13,8 @@ How to use:
 Put these links in as custom filters in your ad blocker:
 * [Twitter](https://raw.githubusercontent.com/mustafa-tariqk/focus/main/twitter.txt)
 * [YouTube](https://raw.githubusercontent.com/mustafa-tariqk/focus/main/youtube.txt)
-* [Instagram](https://raw.githubusercontent.com/mustafa-tariqk/focus/main/instagram.txt) (still testing)
-* [Reddit]() (not available yet)
+* [Instagram](https://raw.githubusercontent.com/mustafa-tariqk/focus/main/instagram.txt)
+* [Reddit](https://raw.githubusercontent.com/mustafa-tariqk/focus/main/reddit.txt)
 
 ## Adguard:
 AdGuard → Filters → Custom → Add Custom Filter → Insert link from above for website you want to filter
