@@ -1,3 +1,11 @@
+[Adblock Plus 3.6]
+! Title: Focus for Instagram
+! Version: 2024v1.0
+! Expires: 14 days
+! Description: This list removes almost all distractions on Instagram
+! Homepage: https://github.com/mustafa-tariqk/
+
+
 ! Block navigation links
 instagram.com##a[href*='/explore/']
 instagram.com##a[href*='/reels/']
