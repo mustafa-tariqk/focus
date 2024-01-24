@@ -1,0 +1,13 @@
+! Block navigation links
+instagram.com##a[href*='/explore/']
+instagram.com##a[href*='/reels/']
+instagram.com##a[href="https://www.threads.net/"]
+
+
+! Block suggested followers
+instagram.com##a[href*='/explore/people/']
+
+! Block specific URLs
+||instagram.com/stories^
+||instagram.com/reels^
+||instagram.com/explore^
